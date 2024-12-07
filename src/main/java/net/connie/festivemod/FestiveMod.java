@@ -53,6 +53,7 @@ public class FestiveMod {
         if(event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS) {
             event.accept(ModItems.CANDY_CANE);
             event.accept(ModItems.MINCE_PIE);
+            event.accept(ModItems.EGGNOG);
         }
     }
 
