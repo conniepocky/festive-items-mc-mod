@@ -1,5 +1,7 @@
 {
   "item.festivemod.candy_cane": "Candy Cane",
   "item.festivemod.mince_pie": "Mince Pie",
-  "item.festivemod.eggnog": "Eggnog"
+  "item.festivemod.eggnog": "Eggnog",
+  "block.festivemod.candy_cane_block": "Candy Cane",
+  "block.festivemod.present_block": "Present"
 }

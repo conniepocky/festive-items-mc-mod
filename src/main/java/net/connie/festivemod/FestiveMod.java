@@ -1,5 +1,6 @@
 package net.connie.festivemod;
 
+import net.connie.festivemod.block.ModBlocks;
 import net.connie.festivemod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
@@ -37,6 +38,7 @@ public class FestiveMod {
         NeoForge.EVENT_BUS.register(this);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
@@ -54,6 +56,11 @@ public class FestiveMod {
             event.accept(ModItems.CANDY_CANE);
             event.accept(ModItems.MINCE_PIE);
             event.accept(ModItems.EGGNOG);
+        }
+
+        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.CANDY_CANE_BLOCK);
+            event.accept(ModBlocks.PRESENT_BLOCK);
         }
     }
 

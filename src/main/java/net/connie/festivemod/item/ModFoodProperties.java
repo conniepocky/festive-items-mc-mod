@@ -12,14 +12,14 @@ public class ModFoodProperties {
             .build();
 
     public static final FoodProperties CANDY_CANE = new FoodProperties.Builder()
-            .nutrition(1) // You can change this value based on how much you want the candy cane to restore.
-            .saturationModifier(0.1f) // Adjust saturation as needed.
+            .nutrition(1)
+            .saturationModifier(0.1f)
             .effect(() -> new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 200, 0), 1.0f) // Speed effect for 10 seconds
             .build();
 
     public static final FoodProperties EGGNOG = new FoodProperties.Builder()
-            .nutrition(1) // You can change this value based on how much you want the candy cane to restore.
-            .saturationModifier(0.25f) // Adjust saturation as needed.
+            .nutrition(1)
+            .saturationModifier(0.25f)
             .effect(() -> new MobEffectInstance(MobEffects.HEALTH_BOOST, 200, 2), 1.0f) // Speed effect for 10 seconds
             .build();
 }

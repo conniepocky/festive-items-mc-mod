@@ -2,17 +2,17 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:milk_bucket"
+      "item": "minecraft:chest"
     },
     {
-      "item": "minecraft:sugar"
+      "item": "minecraft:paper"
     },
     {
-      "item": "minecraft:egg"
+      "item": "minecraft:red_dye"
     }
   ],
   "result": {
-    "id": "festivemod:eggnog",
+    "id": "festivemod:present_block",
     "count": 1
   }
 }
