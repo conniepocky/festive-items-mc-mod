@@ -2,6 +2,8 @@
 
 <img src="https://i.ibb.co/RbQzktx/Screenshot-2024-12-13-205351.png">
 
+<p>Find on Modrinth <a href="https://modrinth.com/mod/festive-items-mod">here</a>.</p>
+
 <p>A festive minecraft mod which includes...</p>
 <ul>
   <li>Wreath Door 🎀</li>
