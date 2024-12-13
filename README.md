@@ -10,3 +10,5 @@
   <li>Eggnog</li>
   <li>Mince Pies</li>
 </ul>
+
+<h2>All assets and code written by me! Enjoy and Merry Christmas 2024 🎅</h2>
