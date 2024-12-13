@@ -6,6 +6,7 @@
     "north": "festivemod:block/present_block_side",
     "south": "festivemod:block/present_block_side",
     "east": "festivemod:block/present_block_side",
-    "west": "festivemod:block/present_block_side"
+    "west": "festivemod:block/present_block_side",
+    "particle": "festivemod:block/present_block_side"
   }
 }

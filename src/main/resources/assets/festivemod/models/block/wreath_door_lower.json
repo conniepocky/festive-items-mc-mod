@@ -21,6 +21,7 @@
     }
   ],
   "textures": {
-    "lower": "festivemod:block/wreath_door_lower"
+    "lower": "festivemod:block/wreath_door_lower",
+    "particles": "festivemod:block/wreath_door_lower"
   }
 }
