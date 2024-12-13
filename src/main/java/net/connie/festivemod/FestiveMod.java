@@ -61,6 +61,7 @@ public class FestiveMod {
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.CANDY_CANE_BLOCK);
             event.accept(ModBlocks.PRESENT_BLOCK);
+            event.accept(ModBlocks.WREATH_DOOR);
         }
     }
 
