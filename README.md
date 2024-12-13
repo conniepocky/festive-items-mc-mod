@@ -10,3 +10,7 @@
   <li>Eggnog</li>
   <li>Mince Pies</li>
 </ul>
+
+<img src="https://i.ibb.co/Y31DgYX/Screenshot-2024-12-13-205422.png">
+
+<h2>All assets and code written by me! Enjoy and Merry Christmas 2024 🎅</h2>
